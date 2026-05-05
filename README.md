@@ -69,33 +69,20 @@ El sistema permite administrar productos, usuarios, compras y ventas, facilitand
 
 ### Menú principal
 
-Pantalla de inicio con acceso a todas las funcionalidades del sistema.
+![Menu](imagenes_readme/menu.png)
 
-  
+### Gestión de productos y Busqueda de productos
 
-### Gestión de productos
-
-Formulario ABML para registrar, modificar y eliminar productos.
-
-  
+![Productos](imagenes_readme/abmlybusqueda.png)
 
 ### Gestión de usuarios
 
-Formulario para administración de usuarios del sistema.
-
-  
-
-### Búsqueda de productos
-
-Pantalla de consulta con filtros dinámicos.
-
-  
-
+![Usuarios](imagenes_readme/usuarios.png)
+    
 ### Historial de ventas y compras
-
-Visualización completa de operaciones realizadas.
-
   
+![Historiales](imagenes_readme/historiales.png)
+
 ---
 
   
